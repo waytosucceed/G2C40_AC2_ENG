@@ -1,0 +1,202 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What did Lily’s friends bring to the teacher?",
+    "options": [
+      "A big birthday card.",
+      "Chocolate cupcakes.",
+      "A birthday hat."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "How did Lily feel when she saw the surprise party?",
+    "options": [
+      "Angry",
+      "Happy and surprised",
+      "Sad"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What did Lily promise after the party?",
+    "options": [
+      "To never forget the special day.",
+      "To forget the party.",
+      "To invite her friends to a party."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Look at this picture and choose the correct action.<br><img width='45%' src='3.png'>",
+    "options": [
+      "Flying",
+      "Playing",
+      "Gardening"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Choose the correct pair.",
+    "options": [
+      "He - Pronoun",
+      "Australia - Adjective",
+      "Play - Adverb"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "I was hungry, _____ I ate a sandwich.",
+    "options": [
+      "since",
+      "so",
+      "or"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "It was raining, _____ we stayed inside.",
+    "options": [
+      "so",
+      "since",
+      "but"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "_____ the children were excited, they played games all day.",
+    "options": [
+      "Therefore",
+      "Since",
+      "So"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "He was very busy, _____ he didn’t come to the party.",
+    "options": [
+      "since",
+      "therefore",
+      "because"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Complete the sentence with the best word. The sun was shining, ___ we went for a walk.",
+    "options": [
+      "so",
+      "since",
+      "or"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "He didn’t like the movie, _____ he left early.",
+    "options": [
+      "since",
+      "or",
+      "so"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "I wanted to play outside, ______ it was raining.",
+    "options": [
+      "but",
+      "so",
+      "therefore"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Complete the sentence with the best word. He was tired, ___ he took a nap.",
+    "options": [
+      "because",
+      "since",
+      "so"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "I couldn’t find my pencil, ______ I borrowed one from my friend.",
+    "options": [
+      "and",
+      "therefore",
+      "because"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "I went to the store ______ I needed some milk.",
+    "options": [
+      "because",
+      "but",
+      "therefore"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "I like to read books ______ my brother likes to play video games.",
+    "options": [
+      "and",
+      "or",
+      "because"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "She was sleepy, ___ she went to bed early.",
+    "options": [
+      "because",
+      "so",
+      "but"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "The sun was shining, ______ we decided to go for a walk.",
+    "options": [
+      "since",
+      "because",
+      "therefore"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "It started to rain, ___ we took our umbrella.",
+    "options": [
+      "or",
+      "so",
+      "but"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "It was late, ______ we decided to go home.",
+    "options": [
+      "because",
+      "but",
+      "therefore"
+    ],
+    "correct": 2
+  }
+]
